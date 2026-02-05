@@ -1,9 +1,3 @@
-hey chalo kaise ho
-hello
-third
-hey
-ravi
+abcd 
 
-var a = 12;
-
-this is stash
+ravi ahir
